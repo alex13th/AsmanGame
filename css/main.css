@@ -1,0 +1,56 @@
+body {
+    background: url(../images/bg.jpg);
+}
+
+.topicImage {
+    width: 320px;
+    height: 180px;
+}
+p { 
+    font-size: 150%; 
+    font-family: Segoe print, Helvetica, sans-serif; 
+    color: Black; 
+}
+
+li {
+    font-size: 150%; 
+    font-family: Segoe print, Helvetica, sans-serif; 
+    color: red; 
+}
+
+a:link { 
+    color: white;
+}
+
+a:visited { 
+    color: white; 
+}
+
+a:hover { 
+    color: red;
+}
+
+a:active { 
+    color: #ff0; 
+}
+
+td {
+    vertical-align: top; 
+    padding: 0px;
+}
+
+td#leftcol {
+    width: 800px; 
+    border: 1px solid #000; 
+    background-color: rgba(0, 0, 0, 0.7) 
+}
+
+#spacer {
+    width: 100vh; 
+}
+
+h1 { 
+    font-size: 500%; 
+    font-family: Segoe print, Helvetica, sans-serif; 
+    color: white; 
+}
